@@ -1,5 +1,5 @@
-1.- diccionario de contactos 
-2.- Algoritmos de busqueda
-3.- Botones
-4.- Crud
-5.- Estetica y cinematicas :)
+1.- diccionario de contactos <br> 
+2.- Algoritmos de busqueda  <br>
+3.- Botones <br>
+4.- Crud    <br>
+5.- Estetica y cinematicas :)   <br>
